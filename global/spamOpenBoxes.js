@@ -10,7 +10,7 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
             }
         }),
         price = ({
-            blizzard: 25,
+            blizzard: 1,
             spooky: 25,
             aquatic: 25,
             bot: 20,
@@ -130,7 +130,7 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
                 "Haunted Pumpkin": 300,
                 "Snow Globe": 5,
                 "Holiday Gift": 5,
-                "Hot Chocolate": 5,
+                "Hot Chocolate": 8000,
                 "Holiday Wreath": 5,
                 "Gingerbread Man": 20,
                 "Gingerbread House": 20,
